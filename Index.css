@@ -1,0 +1,225 @@
+body{
+    margin:auto
+}
+a{
+    text-decoration: none;
+}
+header{
+    height:570px;
+    width: 100%;
+    background-image: url('Image/ZOMATO.webp');
+    background-repeat: no-repeat;
+    background-size: cover;
+    /*border: 5px solid hotpink;*/
+}
+#addrest{
+    font-size: 18px;
+    color:white;
+    font-family: Okra, Helvetica, sans-serif;
+    margin-left: 60%;
+    margin-top: 1%;
+    position: absolute;
+}
+#login{
+    font-size: 18px;
+    color:white;
+    font-family: Okra, Helvetica, sans-serif;
+    margin-left: 72%;
+    margin-top: 1%;
+    position: absolute;
+}
+#signup{
+    font-size: 18px;
+    color:white;
+    font-family: Okra, Helvetica, sans-serif;
+    margin-left: 78%;
+    margin-top: 1%;
+    position: absolute;
+}
+
+#heading{
+    font-size: 60px;
+    color: white;
+    font-weight: bold;
+    font-weight: bold;
+    font-family: Okra, Helvetica, sans-serif;
+    margin-left: 40%;
+    margin-top: 20%;
+    position: absolute;
+}
+.subhead{
+    font-size: 35px;
+    color:white;
+    font-family: Okra, Helvetica, sans-serif;
+    margin-left: 30%;
+    margin-top: 27%;
+    position: absolute;
+}
+.subhead1{
+    font-size: 35px;
+    color:white;
+    font-family: Okra, Helvetica, sans-serif;
+    margin-left: 38%;
+    margin-top: 30%;
+    position: absolute;
+}
+#search{
+    height:450px;
+    background-size: 100% 450px 
+}
+.searchHeading{
+    color:#3b2632;
+    font-size: 30px;
+    display: block;
+    margin-top: 3%;
+    margin-left: 35%;
+}
+.ind{
+    margin-left: 54%;
+    margin-top: -.5%;
+    position: absolute;
+}
+.searchHeading1 {
+    color:#3b2632;
+    font-size: 30px;
+    display: block;
+    margin-top: -2.5%;
+    margin-left: 61%;
+}
+.newtxt{
+    font-size: 20px;
+    margin-left: 21%;
+}
+.newtxt1{
+    font-size: 20px;
+    margin-top: -2%;
+    margin-left: 21%;
+}
+.newtxt2{
+    font-size: 20px;
+    margin-top: -2%;
+    margin-left: 35%;
+}
+.tileContainer{
+    padding: 1% 1.4%;
+    width:250px;
+    background-color: white;
+    color: lightgray;
+    border-radius:0.8rem;
+    border: 1px solid;
+    margin-left: 5%;
+    margin-top: 5%;
+    float: left;
+    display: flex;
+}
+.tileComponent1{
+    width:100%;
+    float: left;
+}
+.tileComponent2{
+    width:200%;
+    float: left;
+    margin-left: -1%;
+    margin-top: 3%;
+}
+
+.compHeading{
+    font-size: 25px;
+    color:#3b2632;
+    font-weight: bold;
+    margin-left: -1%;
+    display: inline-block;
+}
+#quickSearch{
+    height:620px;
+    width:100%;
+    display: inline-block;
+}
+.quickHeading{
+    color:#3b2632;
+    font-size: 30px;
+    font-weight: bold;
+    display: block;
+    margin-top: 5%;
+    margin-left: 5%;
+}
+.qtileContainer{
+    padding: 1% 1.4%;
+    width:250px;
+    background-color: white;
+    color: lightgray;
+    border-radius:0.8rem;
+    border: 1px solid;
+    margin-left: 5%;
+    margin-top: 5%;
+    float: left;
+    display: flex;
+}
+.qtileComponent1{
+    width:100%;
+    float: left;
+}
+.qtileComponent2{
+    width:200%;
+    float: left;
+    margin-left: -1%;
+    margin-top: 3%;
+}
+
+.qcompHeading{
+    font-size: 25px;
+    color:#3b2632;
+    font-weight: bold;
+    margin-left: -1%;
+    display: inline-block;
+}
+.qcompSubHeading{
+    width: auto;
+    font-size: 25px;
+    color:gray;
+    display: inline;
+    margin-left: 50;
+}
+footer{
+    height:220px;
+    width: 100%;
+    background-color: #f7f4f4;
+    color:black;
+    margin-top: 5%;
+}
+#ftitle{
+    font-size: 48px;
+    font-weight: bold;
+    color:black;
+    margin-left: 10%;
+    
+}
+.footDiv{
+    float: left;
+    width:10%;
+    margin-left: 10%;
+    margin-top: 3%;
+    font-size: 15px;
+    font-weight: bolder;
+}
+.abtzom{
+    margin-top: 5%;
+    margin-left: 7%;
+}
+.zomaver{
+    margin-top: -10%;
+    margin-left: 27%;
+}
+.learnmore{
+    margin-top: -8%;
+    margin-left: 47%;
+}
+ul{
+    list-style: none;
+}
+.noborder{
+    margin-left: auto;
+    width: 99%;
+    border: 1px solid gray;
+    
+}
